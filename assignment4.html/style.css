@@ -1,4 +1,3 @@
-/* Reset default spacing and set font */
 * {
   margin: 0;
   padding: 0;
@@ -14,7 +13,6 @@ body {
   background: url('https://ik.imagekit.io/fsvsvbeap/todolistbg%20assignment4.webp?updatedAt=1750523099699') no-repeat center left;
   color: #fff;
   display:flex;
-  align: items 20px;
   justify-content:left-end;
   padding: 20px;
 }
@@ -58,7 +56,6 @@ body {
   font-weight: bold;
   font-size: 14px;
   cursor: pointer;
-  border-radius: 4px;
   margin-bottom: 10px;
 }
 
